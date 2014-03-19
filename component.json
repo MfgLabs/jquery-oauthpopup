@@ -1,7 +1,7 @@
 {
   "name": "jquery-oauthpopup",
-  "version": "0.0.0",
-  "author" : "Nobu Funaki @zuzara",
+  "version": "0.0.1",
+  "author" : "Nobu Funaki @zuzara / Julian Bilcke @flngr",
   "main": "./jquery.oauthpopup.js",
   "ignore": [
     "*.txt",
