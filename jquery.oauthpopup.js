@@ -27,6 +27,8 @@
                 options.callback();
             }
         }, 1000);
+        
+        return oauthWindow;
     };
 })(jQuery);
 
